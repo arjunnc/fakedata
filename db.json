@@ -1,0 +1,70 @@
+{
+  "inbox_count": 0,
+  "inbox": [{
+      "smtSrc": "Smartech",
+      "smtPayload": {
+        "categoryDetails": {
+          "id": 22,
+          "name": "Promotions"
+        },
+        "attrParams": {
+          "__sta": "",
+          "__stm_medium": "",
+          "__stm_source": "",
+          "__stm_id": ""
+        },
+        "body": "This is samplel PN",
+        "title": "Netcore",
+        "subtitle": "Netcore Solutions",
+        "sound": false,
+        "mediaUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4",
+        "deeplink": "",
+        "actionButton": [],
+        "carousel": [
+          {
+            "imgDeeplink": "https://www.google.com",
+            "imgMsg": "Astronaut in space",
+            "imgTitle": "Astronaut",
+            "imgUrl": "https://media.nature.com/lw800/magazine-assets/d41586-020-03085-8/d41586-020-03085-8_18545836.jpg"
+          },
+          {
+            "imgDeeplink": "https://www.netcore.co.in",
+            "imgMsg": "Grapha message",
+            "imgTitle": "Graph",
+            "imgUrl": "https://media.nature.com/lw800/magazine-assets/d41586-020-03085-8/d41586-020-03085-8_18550038.jpg"
+          },
+          {
+            "imgDeeplink": "https://www.gmail.com",
+            "imgMsg": "Carousel Image 3 Message",
+            "imgTitle": "Exciting space adventures",
+            "imgUrl": "https://media.nature.com/lw800/magazine-assets/d41586-020-03113-7/d41586-020-03113-7_18550484.jpg"
+          },
+          {
+            "imgDeeplink": "https://www.gmail.com",
+            "imgMsg": "Carousel Image 3 Message",
+            "imgTitle": "Exciting space adventures",
+            "imgUrl": "https://media.nature.com/lw800/magazine-assets/d41586-020-03113-7/d41586-020-03113-7_18550484.jpg"
+          }
+        ],
+        "trid": "110910-249-44014120-212-21011519121",
+        "smtSrc": "",
+        "isStreamable": false,
+        "type": "Image",
+        "publishedDate": "",
+        "timestamp": "1616585992070",
+        "ttl": "2021-04-25T06:43:43",
+        "status": ""
+      },
+      "smtCustomPayload": {},
+      "aps": {
+        "alert": {
+          "body": "Order your favourites and pick your payment mode.",
+          "title": "We got ways to reach your gif PN "
+        },
+        "mutable-content": 0,
+        "category": "SmartechCarouselLandscapeNotification"
+      }
+    }],
+  "message": "success",
+  "code": 200
+}
